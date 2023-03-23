@@ -1,5 +1,7 @@
 NestJs REST API
 
+Built a bookmarks API from scratch using nestJs, docker, postgres, passport js, prisma, pactum and dotenv. Written e2e tests with pactumJs for various edge cases. Used passport js & jwt module with nestJs
+
 ## Installation
 
 ```bash
